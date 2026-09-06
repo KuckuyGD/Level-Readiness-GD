@@ -1,0 +1,17 @@
+{
+  "geode": "5.8.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "kuckuy.level-readiness",
+  "name": "Level Readiness",
+  "version": "v0.1.0",
+  "developer": "Kuckuy",
+  "description": "Estima de 1 a 100 qué tan preparado estás para jugar un nivel usando tus estadísticas y tu progreso en ese nivel.",
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  }
+}
